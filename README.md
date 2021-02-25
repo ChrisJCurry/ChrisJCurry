@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h3>I'm currently going to Boise Codeworks in Boise, ID! It's a 13-week full stack development course.</h3>
+
+<h4>My favorite language is C#!</h4>
+<h4>Robotics enthusiast!</h4>
+<h4>Favorite DnD 5e class: Ranger!</h4>
 <!--
 **ChrisJCurry/ChrisJCurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
