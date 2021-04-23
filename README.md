@@ -3,10 +3,6 @@
 <h3>I'm currently going to Boise Codeworks in Boise, ID! It's a 13-week full stack development course. RuneScape got me into programming when I was younger and I taught myself Java as that was the base language RuneScape used. Eventually through high school I found C# through a programming course for game development and fell in love! I use C# for Unity and am currently learning Unreal Engine  with C++. </h3>
 
 <h3>The applications I've worked on uses technologies and languages like Vue3, Node.js, MongoDb, MySQL, JavaScript, and C#</h3>
-
-<h4>My favorite language is C#!</h4>
-<h4>Robotics enthusiast!</h4>
-<h4>Favorite DnD 5e class: Ranger!</h4>
 <!--
 **ChrisJCurry/ChrisJCurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
