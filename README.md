@@ -4,7 +4,8 @@
 
 <h3>The applications I've worked on uses technologies and languages like Vue3, Node.js, MongoDb, MySQL, JavaScript, and C#</h3>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisJCurry&hide=HTML,CSS,SCSS&langs_count=10&layout=compact&title_color=c9d1d9&bg_color=0d1117&text_color=c9d1d9&hide_border=true)
-**ChrisJCurry/ChrisJCurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**ChrisJCurry/ChrisJCurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
